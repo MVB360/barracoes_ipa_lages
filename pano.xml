@@ -1,0 +1,1485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.8" hassounds="1" start="node35" apprev="20986">
+  <panorama id="node35">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1024" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1024">
+      <level width="1024" predecode="0" preload="0" height="1024"/>
+      <level width="512" predecode="0" preload="0" height="512"/>
+      <level width="256" predecode="1" preload="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-14.3354" fovmode="2">
+      <start tilt="-40.1" projection="4" pan="22.1" fov="126.97"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="VISTA FACE LESTE" longitude="-50.36781780" customnodeid="" info="" comment="" nodeid="node35" datetime="04/02/2026 16:22" tags="IPAPARTICIPAES|Pano2VR7" author="" copyright="" latitude="-27.81140788" altitude="70.00" source="" heading="-14.3354"/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-75.97" description="" title="CALÇADA" skinid="ht_node" pan="49.9271" distance="32.2471" id="Point01" target="$fwd" url="{node1}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE SUL" skinid="ht_node" pan="66.6617" distance="205.659" id="Point02" target="$fwd" url="{node40}"/>
+      <hotspot tilt="0" description="" title="VISTA CENTRAL" skinid="ht_node" pan="18.2683" distance="131.209" id="Point03" target="$fwd" url="{node36}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE NORTE" skinid="ht_node" pan="-3.42875" distance="382.027" id="Point04" target="$fwd" url="{node37}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE SUDESTE" skinid="ht_node" pan="68.9392" distance="328.845" id="Point05" target="$fwd" url="{node39}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE OESTE" skinid="ht_node" pan="33.3159" distance="403.347" id="Point06" target="$fwd" url="{node38}"/>
+      <hotspot tilt="-9.06" description="" title="Câmera em 360º fundos" id="Point07" skinid="ht_video_file" target="" pan="-329.32" url="media/v�deo a�reo Lages fundos.mp4"/>
+      <hotspot tilt="-11.85" description="" title="Câmera em 360º frente" id="Point08" skinid="ht_video_file" target="" pan="-25.91" url="media/video a�reo Lages frente.mp4"/>
+      <hotspot tilt="-14.81" description="" title="Tour 6.000 m²" skinid="ht_node" pan="-302.62" distance="276.02" id="Point09" target="" url="{node34}"/>
+      <hotspot tilt="-19.67" description="" title="Tour 15.000 m²" skinid="ht_node" pan="-357.31" distance="195.873" id="Point10" target="" url="{node6}"/>
+      <polyhotspot description="" title="Barracão 6.000 m²" id="Poly01" target="_blank" url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/">
+        <polystring>-304.09/-12.01|-304.05/-17.53|-311.58/-17.52|-311.54/-15.88|-320.83/-15.19|-317.45/-11.72</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="Barracão 15.000 m²" id="Poly02" target="_blank" url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/">
+        <polystring>-348.91/-20.2|-348.88/-18.43|-342.21/-16.1|-344.86/-15.29|-340.11/-13.74|-340.18/-11.87|-341.38/-11.36|-358.26/-8.36|-3.49/-8.79|-8.44/-9.21|-11.69/-10.36|-359.43/-15.72|-359.52/-17.31|-357.82/-16.92</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="Escrit. Salas Comerciais" id="Poly03" target="_blank" url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/">
+        <polystring>-12.36/-34.76|-22.07/-20.47|-27.52/-20.86|-22.34/-35|-22.12/-36.84|-19.43/-37.29|-15.59/-43.45|-13.53/-43.08|-12.13/-44.47|-4.95/-42.76|-2.44/-42.09|-10.44/-34.42</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-33.420" rotz="15.000" pan="-26.130" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.630">
+        <source url="media/PLACA ESCRIT�RIOS E SALAS COMERCIAIS.jpg"/>
+      </image>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-6.560" rotz="0.000" pan="-358.270" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element02" stretch="1.000" height="100" clickmode="1" fov="3.104">
+        <source url="media/PLACA 15.000 m�.jpg"/>
+      </image>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-10.440" rotz="0.000" pan="-310.810" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element03" stretch="1.000" height="100" clickmode="1" fov="2.443">
+        <source url="media/PLACA 6.000 m�.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0">
+      <clip transitiontype="0" nextcliptitle="Clip01" length="100" cliptitle="Clip01" animtype="0" animtitle="Animation01" nodeid="" nextclipstartview="52.9122/-78.6605/89.3429/4" nextclipnodeid="node35">
+        <keyframe time="0" property="0" value="52.9122" valuestring="" additionaltrackid="" type="0" transitiontime="0"/>
+        <keyframe time="0" property="1" value="-78.6605" valuestring="" additionaltrackid="" type="0" transitiontime="0"/>
+        <keyframe time="0" property="2" value="89.3429" valuestring="" additionaltrackid="" type="0" transitiontime="0"/>
+        <keyframe time="0" property="3" value="4" valuestring="" additionaltrackid="" type="0" transitiontime="0"/>
+      </clip>
+    </animation>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node1">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-65.8364" fovmode="2">
+      <start tilt="-1.71" projection="4" pan="-23.58" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="CALÇADA" longitude="-50.36812484" customnodeid="" info="" comment="" nodeid="node1" datetime="05/02/2026 10:06" tags="Pano2VR7" author="" copyright="" latitude="-27.81130614" heading="-65.8364" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="34.34" description="" title="VISTA FACE LESTE" skinid="ht_node" pan="-179.014" distance="32.2471" id="Point01" target="$fwd" url="{node35}"/>
+      <hotspot tilt="0" description="" title="PATIO ENTRADA" skinid="ht_node" pan="10.0393" distance="19.5937" id="Point02" target="$fwd" url="{node2}"/>
+      <hotspot tilt="0" description="" title="VISTA ENTRADA ELITE" skinid="ht_node" pan="-55.6371" distance="43.99" id="Point03" target="$fwd" url="{node3}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="1.750" rotz="0.000" pan="-25.050" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="107.761" fovmode="2">
+      <start tilt="0.09" projection="4" pan="89.36" fov="95.91"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO ENTRADA" longitude="-50.36831804" customnodeid="" info="" comment="" nodeid="node2" datetime="05/02/2026 10:06" tags="Pano2VR7" author="" copyright="" latitude="-27.81126314" heading="107.761" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="CALÇADA" skinid="ht_node" pan="3.63665" distance="19.5937" id="Point01" target="$fwd" url="{node1}"/>
+      <hotspot tilt="0" description="" title="PATIO SUDESTE" skinid="ht_node" pan="191.955" distance="39.1101" id="Point02" target="$fwd" url="{node17}"/>
+      <hotspot tilt="0" description="" title="GUARITA PRINCIPAL BARRACÕES" skinid="ht_node" pan="150.548" distance="16.8924" id="Point05" target="$fwd" url="{node18}"/>
+      <hotspot tilt="0" description="" title="VISTA ENTRADA ELITE" skinid="ht_node" pan="91.5297" distance="40.1123" id="Point04" target="$fwd" url="{node3}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-0.610" rotz="0.000" pan="-234.280" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node4">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="192.447" fovmode="2">
+      <start tilt="-0.226698" projection="4" pan="177.824" fov="87.68"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO LESTE (BALANÇA)" longitude="-50.36803105" customnodeid="" info="" comment="" nodeid="node4" datetime="05/02/2026 10:09" tags="" author="" copyright="" latitude="-27.81053839" heading="192.447" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="VISTA ENTRADA ELITE" skinid="ht_node" pan="350.43" distance="45.3848" id="Point01" target="$fwd" url="{node3}"/>
+      <hotspot tilt="0" description="" title="PATIO LESTE" skinid="ht_node" pan="174.462" distance="63.6525" id="Point02" target="$fwd" url="{node5}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="0.590" rotz="0.000" pan="-142.460" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node5">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-880.777" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO LESTE" longitude="-50.36783122" customnodeid="" info="" comment="" nodeid="node5" datetime="05/02/2026 10:10" tags="" author="" copyright="" latitude="-27.80999392" heading="-880.777" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="CORREDOR OESTE" skinid="ht_node" pan="-935.641" distance="26.1291" id="Point01" target="$fwd" url="{node19}"/>
+      <hotspot tilt="0" description="" title="PATIO CENTRAL" skinid="ht_node" pan="-819.598" distance="62.9282" id="Point02" target="$fwd" url="{node6}"/>
+      <hotspot tilt="0" description="" title="PATIO LESTE (BALANÇA)" skinid="ht_node" pan="-718.762" distance="63.6525" id="Point03" target="$fwd" url="{node4}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-0.250" rotz="0.000" pan="-93.590" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node6">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="107.092" fovmode="2">
+      <start tilt="-2.40409" projection="4" pan="-171.674" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO CENTRAL" longitude="-50.36839179" customnodeid="" info="" comment="" nodeid="node6" datetime="05/02/2026 10:11" tags="" author="" copyright="" latitude="-27.80972110" heading="107.092" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO LESTE" skinid="ht_node" pan="-11.7293" distance="62.9282" id="Point01" target="$fwd" url="{node5}"/>
+      <hotspot tilt="0" description="" title="PATIO CENTRAL" skinid="ht_node" pan="267.107" distance="52.4901" id="Point02" target="$fwd" url="{node7}"/>
+      <hotspot tilt="20.64" description="" title="INICIO DO TOUR" skinid="ht_node" pan="-56.49" distance="195.873" id="Point03" target="" url="{node35}"/>
+      <polyhotspot description="" title="TOUR VIRTUAL15MIL m²" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" id="Poly01" target="_blank" url="https://aguiarparticipacoes.com.br/" borderalpha="1">
+        <polystring>-151.39/12.42|-151.46/3.88|-185.56/5.05|-185.46/13.25</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="SITE GRUPO AGUIAR" id="Poly02" target="_blank" url="https://aguiarparticipacoes.com.br/">
+        <polystring>-186.06/-3.97|-151.4/-5.91|-151.61/3.8|-185.61/5.08</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="4.370" rotz="0.000" pan="-210.290" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+      <image popoutscaling="100" popbackmode="0" rotx="9.787" tilt="4.357" rotz="-2.113" pan="-168.659" hidepinned="0" width="100" roty="-0.342" handcursor="0" id="Element02" stretch="0.524" height="100" clickmode="0" fov="34.110">
+        <source url="media/PLACA DE INFORMA��O PARA SITE E TOU VIRTUAL DOS 15 MIL M�.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node7">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="25.0801" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO CENTRAL" longitude="-50.36857419" customnodeid="" info="" comment="" nodeid="node7" datetime="05/02/2026 10:11" tags="" author="" copyright="" latitude="-27.81016473" heading="25.0801" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO CENTRAL" skinid="ht_node" pan="5.09549" distance="52.4901" id="Point01" target="$fwd" url="{node6}"/>
+      <hotspot tilt="0" description="" title="PATIO CENTRAL" skinid="ht_node" pan="135.097" distance="78.6126" id="Point02" target="$fwd" url="{node9}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="2.800" rotz="0.000" pan="-326.390" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node9">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="101.83" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO CENTRAL" longitude="-50.36932521" customnodeid="" info="" comment="" nodeid="node9" datetime="05/02/2026 10:13" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.81040672" heading="101.83" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO CENTRAL" skinid="ht_node" pan="31.8461" distance="78.6126" id="Point01" target="$fwd" url="{node7}"/>
+      <hotspot tilt="0" description="" title="PATIO CENTRAL" skinid="ht_node" pan="257.263" distance="40.6072" id="Point02" target="$fwd" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node10">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="29.6666" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO CENTRAL" longitude="-50.36949687" customnodeid="" info="" comment="" nodeid="node10" datetime="05/02/2026 10:14" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.81073885" heading="29.6666" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO CENTRAL" skinid="ht_node" pan="5.09917" distance="40.6072" id="Point01" target="$fwd" url="{node9}"/>
+      <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="182.594" distance="26.6626" id="Point02" target="$fwd" url="{node11}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="1.090" rotz="0.000" pan="-262.340" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node11">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="20.4307" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO SUL" longitude="-50.36962025" customnodeid="" info="" comment="" nodeid="node11" datetime="05/02/2026 10:15" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.81095236" heading="20.4307" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO CENTRAL" skinid="ht_node" pan="-6.6417" distance="26.6626" id="Point01" target="$fwd" url="{node10}"/>
+      <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="-87.7176" distance="33.0361" id="Point02" target="$fwd" url="{node16}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="1.300" rotz="0.000" pan="-301.900" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node12">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="17.1249" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO SUL" longitude="-50.36952369" customnodeid="" info="" comment="" nodeid="node12" datetime="05/02/2026 10:16" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.81145531" heading="17.1249" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="-8.50675" distance="50.6165" id="Point01" target="$fwd" url="{node16}"/>
+      <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="96.6131" distance="52.0503" id="Point02" target="$fwd" url="{node14}"/>
+      <hotspot tilt="0" description="" title="RAMPA LAVAGEM PATIO SUL" skinid="ht_node" pan="182.55" distance="27.2559" id="Point03" target="$fwd" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node16">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-83.2416" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO SUL" longitude="-50.36930106" customnodeid="" info="" comment="" nodeid="node16" datetime="05/02/2026 10:20" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.81104490" heading="-83.2416" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO SUDESTE" skinid="ht_node" pan="-192.612" distance="61.2377" id="Point01" target="$fwd" url="{node17}"/>
+      <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="71.1269" distance="50.6165" id="Point02" target="$fwd" url="{node12}"/>
+      <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="-11.3898" distance="33.0361" id="Point03" target="$fwd" url="{node11}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="0.040" rotz="0.000" pan="-22.080" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node13">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="RAMPA LAVAGEM PATIO SUL" longitude="-50.36959343" customnodeid="" info="" comment="" nodeid="node13" datetime="05/02/2026 10:17" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.81169254" heading="0" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="-14.5752" distance="27.2559" id="Point01" target="$fwd" url="{node12}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node14">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="119.324" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO SUL" longitude="-50.37004404" customnodeid="" info="" comment="" nodeid="node14" datetime="05/02/2026 10:18" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.81136991" heading="119.324" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="18.812" distance="52.0503" id="Point01" target="$fwd" url="{node12}"/>
+      <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="169.052" distance="49.7872" id="Point02" target="$fwd" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node15">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="138.799" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO SUL" longitude="-50.37043028" customnodeid="" info="" comment="" nodeid="node15" datetime="05/02/2026 10:18" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.81108048" heading="138.799" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="8.52714" distance="49.7872" id="Point01" target="$fwd" url="{node14}"/>
+      <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="144.067" distance="51.6257" id="Point02" target="$fwd" url="{node34}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="3.030" rotz="0.000" pan="-233.620" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node17">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-66.6709" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO SUDESTE" longitude="-50.36871366" customnodeid="" info="" comment="" nodeid="node17" datetime="05/02/2026 10:21" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.81122756" heading="-66.6709" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO ENTRADA" skinid="ht_node" pan="-162.477" distance="39.1101" id="Point01" target="$fwd" url="{node2}"/>
+      <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="3.9589" distance="61.2377" id="Point02" target="$fwd" url="{node16}"/>
+      <hotspot tilt="0" description="" title="GUARITA PRINCIPAL BARRACÕES" skinid="ht_node" pan="-139.57" distance="28.7041" id="Point03" target="$fwd" url="{node18}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node18">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="GUARITA PRINCIPAL BARRACÕES" longitude="-50.36843471" customnodeid="" info="" comment="" nodeid="node18" datetime="05/02/2026 10:21" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.81115165" heading="0" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO ENTRADA" skinid="ht_node" pan="-137.213" distance="16.8924" id="Point01" target="$fwd" url="{node2}"/>
+      <hotspot tilt="0" description="" title="PATIO SUDESTE" skinid="ht_node" pan="107.101" distance="28.7041" id="Point02" target="$fwd" url="{node17}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node19">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-154.642" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="CORREDOR OESTE" longitude="-50.36761396" customnodeid="" info="" comment="" nodeid="node19" datetime="05/02/2026 10:26" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.80985868" heading="-154.642" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="CORREDOR OESTE" skinid="ht_node" pan="-174.498" distance="70.6788" id="Point01" target="$fwd" url="{node20}"/>
+      <hotspot tilt="0" description="" title="PATIO LESTE" skinid="ht_node" pan="-29.5054" distance="26.1291" id="Point02" target="$fwd" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node20">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-154.044" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="CORREDOR OESTE" longitude="-50.36736987" customnodeid="" info="" comment="" nodeid="node20" datetime="05/02/2026 10:27" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.80926084" heading="-154.044" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="VISTA NORDESTE" skinid="ht_node" pan="-169.614" distance="60.9325" id="Point01" target="$fwd" url="{node21}"/>
+      <hotspot tilt="0" description="" title="CORREDOR OESTE" skinid="ht_node" pan="6.09985" distance="70.6788" id="Point02" target="$fwd" url="{node19}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node21">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-178.561" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="VISTA NORDESTE" longitude="-50.36720358" customnodeid="" info="" comment="" nodeid="node21" datetime="05/02/2026 10:28" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.80873297" heading="-178.561" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="VISTA NORTE" skinid="ht_node" pan="-112.607" distance="45.6409" id="Point01" target="$fwd" url="{node22}"/>
+      <hotspot tilt="0" description="" title="CORREDOR OESTE" skinid="ht_node" pan="-14.1308" distance="60.9325" id="Point02" target="$fwd" url="{node20}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node22">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="110.53" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="VISTA NORTE" longitude="-50.36762736" customnodeid="" info="" comment="" nodeid="node22" datetime="05/02/2026 10:29" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.80856572" heading="110.53" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO NORTE" skinid="ht_node" pan="177.354" distance="45.9156" id="Point01" target="$fwd" url="{node23}"/>
+      <hotspot tilt="0" description="" title="VISTA NORDESTE" skinid="ht_node" pan="-3.51619" distance="45.6409" id="Point02" target="$fwd" url="{node21}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node23">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-253.806" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO NORTE" longitude="-50.36805653" customnodeid="" info="" comment="" nodeid="node23" datetime="05/02/2026 10:29" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.80840321" heading="-253.806" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="ESTACIONAMENTO NORTE" skinid="ht_node" pan="-184.585" distance="39.7831" id="Point01" target="$fwd" url="{node24}"/>
+      <hotspot tilt="0" description="" title="VISTA NORTE" skinid="ht_node" pan="-366.982" distance="45.9156" id="Point02" target="$fwd" url="{node22}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="7.670" rotz="0.000" pan="-156.940" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node24">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="116.008" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="ESTACIONAMENTO NORTE" longitude="-50.36843471" customnodeid="" info="" comment="" nodeid="node24" datetime="05/02/2026 10:30" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.80827628" heading="116.008" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO NORTE" skinid="ht_node" pan="101.613" distance="25.4659" id="Point01" target="$fwd" url="{node25}"/>
+      <hotspot tilt="0" description="" title="PATIO NORTE" skinid="ht_node" pan="5.22836" distance="39.7831" id="Point02" target="$fwd" url="{node23}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="25.740" rotz="0.000" pan="-107.890" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node25">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-246.293" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO NORTE" longitude="-50.36837034" customnodeid="" info="" comment="" nodeid="node25" datetime="05/02/2026 10:30" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.80805445" heading="-246.293" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO NOROESTE" skinid="ht_node" pan="-173.789" distance="55.1748" id="Point01" target="$fwd" url="{node26}"/>
+      <hotspot tilt="0" description="" title="ESTACIONAMENTO NORTE" skinid="ht_node" pan="-80.6881" distance="25.4659" id="Point02" target="$fwd" url="{node24}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="10.540" rotz="0.000" pan="-108.060" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node26">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-239.557" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO NOROESTE" longitude="-50.36890537" customnodeid="" info="" comment="" nodeid="node26" datetime="05/02/2026 10:31" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.80790527" heading="-239.557" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO NOROESTE" skinid="ht_node" pan="-98.7591" distance="44.0449" id="Point01" target="$fwd" url="{node27}"/>
+      <hotspot tilt="0" description="" title="PATIO NORTE" skinid="ht_node" pan="-347.054" distance="55.1748" id="Point02" target="$fwd" url="{node25}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="14.900" rotz="0.000" pan="-69.950" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node27">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-337.105" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO NOROESTE" longitude="-50.36918842" customnodeid="" info="" comment="" nodeid="node27" datetime="05/02/2026 10:32" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.80821222" heading="-337.105" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO OESTE" skinid="ht_node" pan="-178.37" distance="47.2743" id="Point01" target="$fwd" url="{node28}"/>
+      <hotspot tilt="0" description="" title="PATIO NOROESTE" skinid="ht_node" pan="-376.307" distance="44.0449" id="Point02" target="$fwd" url="{node26}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="26.630" rotz="0.000" pan="-68.970" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node28">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-337.664" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO OESTE" longitude="-50.36936275" customnodeid="" info="" comment="" nodeid="node28" datetime="05/02/2026 10:33" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.80860842" heading="-337.664" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO OESTE" skinid="ht_node" pan="-177.662" distance="85.6235" id="Point01" target="$fwd" url="{node29}"/>
+      <hotspot tilt="0" description="" title="PATIO NOROESTE" skinid="ht_node" pan="-358.93" distance="47.2743" id="Point02" target="$fwd" url="{node27}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="15.350" rotz="0.000" pan="-48.930" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node29">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-314.989" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO OESTE" longitude="-50.36966048" customnodeid="" info="" comment="" nodeid="node29" datetime="05/02/2026 10:34" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.80933202" heading="-314.989" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO OESTE" skinid="ht_node" pan="-167.884" distance="73.8297" id="Point01" target="$fwd" url="{node30}"/>
+      <hotspot tilt="0" description="" title="PATIO OESTE" skinid="ht_node" pan="-334.987" distance="85.6235" id="Point02" target="$fwd" url="{node28}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="17.360" rotz="0.000" pan="-17.340" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node30">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="48.6028" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO OESTE" longitude="-50.37006817" customnodeid="" info="" comment="" nodeid="node30" datetime="05/02/2026 10:35" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.80988953" heading="48.6028" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO OESTE" skinid="ht_node" pan="122.12" distance="63.688" id="Point01" target="$fwd" url="{node31}"/>
+      <hotspot tilt="0" description="" title="PATIO OESTE" skinid="ht_node" pan="15.7075" distance="73.8297" id="Point02" target="$fwd" url="{node29}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="9.160" rotz="0.000" pan="-165.880" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node31">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="51.2023" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO OESTE" longitude="-50.37068911" customnodeid="" info="" comment="" nodeid="node31" datetime="05/02/2026 10:36" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.80972702" heading="51.2023" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO SUDOESTE" skinid="ht_node" pan="207.771" distance="85.2467" id="Point01" target="$fwd" url="{node32}"/>
+      <hotspot tilt="0" description="" title="PATIO OESTE" skinid="ht_node" pan="-55.2809" distance="63.688" id="Point02" target="$fwd" url="{node30}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="11.990" rotz="0.000" pan="-102.620" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node32">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="27.1277" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO SUDOESTE" longitude="-50.37103378" customnodeid="" info="" comment="" nodeid="node32" datetime="05/02/2026 10:37" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.81043044" heading="27.1277" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="-84.9671" distance="28.7551" id="Point01" target="$fwd" url="{node33}"/>
+      <hotspot tilt="0" description="" title="PATIO OESTE" skinid="ht_node" pan="3.69585" distance="85.2467" id="Point02" target="$fwd" url="{node31}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="6.770" rotz="0.000" pan="-18.800" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node33">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-93.9637" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO SUL" longitude="-50.37076288" customnodeid="" info="" comment="" nodeid="node33" datetime="05/02/2026 10:38" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.81052771" heading="-93.9637" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="-203.74" distance="29.7253" id="Point01" target="$fwd" url="{node34}"/>
+      <hotspot tilt="0" description="" title="PATIO SUDOESTE" skinid="ht_node" pan="-26.0584" distance="28.7551" id="Point02" target="$fwd" url="{node32}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="4.210" rotz="0.000" pan="-111.690" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node34">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-12.7812" fovmode="2">
+      <start tilt="-3.11357" projection="4" pan="-40.9257" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="PATIO SUL" longitude="-50.37047847" customnodeid="" info="" comment="" nodeid="node34" datetime="05/02/2026 10:39" tags="IPAPARTICIPAES" author="" copyright="" latitude="-27.81061816" heading="-12.7812" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="-187.514" distance="51.6257" id="Point01" target="$fwd" url="{node15}"/>
+      <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="57.4424" distance="29.7253" id="Point02" target="$fwd" url="{node33}"/>
+      <hotspot tilt="20.67" description="" title="INICIO DO TOUR" skinid="ht_node" pan="-121.52" distance="276.02" id="Point03" target="" url="{node35}"/>
+      <polyhotspot description="" title="SITE GRUPO AGUIAR" id="Poly01" target="_blank" url="https://aguiarparticipacoes.com.br/">
+        <polystring>-28.96/5.54|-29.02/-4.5|-59.23/-4.48|-59.29/5</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="TOUR VIRTUAL 6 MIL M²" id="Poly02" target="_blank" url="https://aguiarparticipacoes.com.br/">
+        <polystring>-28.87/14.36|-29.02/5.62|-59.29/5|-59.44/13.83</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="5.140" rotz="0.000" pan="-17.740" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+      <image popoutscaling="100" popbackmode="0" rotx="2.771" tilt="5.178" rotz="0.528" pan="-44.549" hidepinned="0" width="100" roty="-6.160" handcursor="0" id="Element02" stretch="0.635" height="100" clickmode="0" fov="30.000">
+        <source url="media/PLACA DO TOUR VIRTUAL 6 MIL M� E SITE GRUPO AGUIAR.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node36">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1024" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1024">
+      <level width="1024" predecode="0" preload="0" height="1024"/>
+      <level width="512" predecode="0" preload="0" height="512"/>
+      <level width="256" predecode="1" preload="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="VISTA CENTRAL" longitude="-50.36853664" customnodeid="" info="" comment="" nodeid="node36" datetime="04/02/2026 16:29" tags="Pano2VR7" author="" copyright="" latitude="-27.81041383" altitude="70.00" source="" heading="0"/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="VISTA FACE NORTE" skinid="ht_node" pan="0.342678" distance="264.598" id="Point01" target="$fwd" url="{node37}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE LESTE" skinid="ht_node" pan="-147.397" distance="131.209" id="Point02" target="$fwd" url="{node35}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE OESTE" skinid="ht_node" pan="54.671" distance="278.726" id="Point03" target="$fwd" url="{node38}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE SUL" skinid="ht_node" pan="120.611" distance="153.868" id="Point04" target="$fwd" url="{node40}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE SUDESTE" skinid="ht_node" pan="105.72" distance="265.826" id="Point05" target="$fwd" url="{node39}"/>
+      <hotspot tilt="-13.82" description="" title="VÍDEO CÂMERA 360º " id="Point06" skinid="ht_video_file" target="" pan="-33.19" url="media/video a�reo Lages frente.mp4"/>
+      <hotspot tilt="-9.15" description="" title="VÍDEO CÂMERA 360º" id="Point07" skinid="ht_video_file" target="" pan="-288.46" url="media/v�deo a�reo Lages fundos.mp4"/>
+      <polyhotspot description="" title="" id="Poly01" target="_blank" url="">
+        <polystring>-261.1/-10.83|-260.56/-11.64|-259.19/-11.53|-258.53/-11.76|-257.44/-13.21|-256.54/-13.28|-255.59/-13.55|-255.12/-14.06|-253.47/-13.89|-251.73/-15.42|-251.94/-16.6|-259.16/-17.42|-261.66/-15.67|-275.7/-16.5|-277.34/-13.27|-277.19/-11.69</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="" id="Poly02" target="_blank" url="">
+        <polystring>-301.54/-23.14|-309.47/-30.05|-309.31/-33.75|-332.05/-25.37|-335.41/-26.44|-335.34/-23.31|-354.83/-11.77|-348.71/-10.13|-341.79/-9.56|-336.02/-8.98|-333.71/-8.83|-305.25/-13.73|-305.05/-16.65|-311.61/-20.51|-302.42/-22.14</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="Escrit. Salas Comerciais" id="Poly03" target="_blank" url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/">
+        <polystring>-39.47/-30.3|-35.14/-30.69|-34.4/-31.53|-30.16/-32.8|-29.76/-34.83|-105.69/-64.36|-109.11/-67.87|-139.39/-62.99|-143.23/-63.6|-149.87/-60.3|-150.02/-58.4|-156.87/-53.77|-152.65/-51.96|-151.24/-52.49|-142.09/-48.3|-138.79/-49.84|-138.33/-48.94|-108.07/-55.06|-108.02/-53.12|-102.69/-50.56</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-47.660" rotz="10.000" pan="-89.650" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.630">
+        <source url="media/PLACA ESCRIT�RIOS E SALAS COMERCIAIS.jpg"/>
+      </image>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-7.080" rotz="0.000" pan="-333.960" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element02" stretch="1.000" height="100" clickmode="1" fov="3.104">
+        <source url="media/PLACA 15.000 m�.jpg"/>
+      </image>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-9.960" rotz="0.000" pan="-268.910" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element03" stretch="1.000" height="100" clickmode="1" fov="2.443">
+        <source url="media/PLACA 6.000 m�.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node37">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1024" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1024">
+      <level width="1024" predecode="0" preload="0" height="1024"/>
+      <level width="512" predecode="0" preload="0" height="512"/>
+      <level width="256" predecode="1" preload="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-163.525" fovmode="2">
+      <start tilt="-36.6009" projection="4" pan="37.8332" fov="104.973"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="VISTA FACE NORTE" longitude="-50.36855273" customnodeid="" info="" comment="" nodeid="node37" datetime="04/02/2026 16:33" tags="Pano2VR7" author="" copyright="" latitude="-27.80803429" altitude="70.00" source="" heading="-163.525"/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="VISTA FACE OESTE" skinid="ht_node" pan="-48.9193" distance="248.368" id="Point01" target="$fwd" url="{node38}"/>
+      <hotspot tilt="0" description="" title="VISTA CENTRAL" skinid="ht_node" pan="-343.182" distance="264.598" id="Point02" target="$fwd" url="{node36}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE LESTE" skinid="ht_node" pan="-332.619" distance="382.027" id="Point03" target="$fwd" url="{node35}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE SUDESTE" skinid="ht_node" pan="-20.5949" distance="421.874" id="Point04" target="$fwd" url="{node39}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE SUL" skinid="ht_node" pan="-4.40852" distance="367.056" id="Point05" target="$fwd" url="{node40}"/>
+      <polyhotspot description="" title="Barracão 15.000 m²" id="Poly01" target="_blank" url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/">
+        <polystring>-349.78/-15.08|-352.25/-15.3|-355.83/-12.25|-0.01/-10.95|-4.55/-12.46|-3.75/-14.58|-8.96/-13.02|-14.14/-14.41|-19.78/-12.83|-23.89/-13.74|-62.7/-36.88|-62.98/-42.74|-356.42/-56.63|-354.51/-61.56|-315.45/-49.16|-315.53/-45.3|-317.55/-43.96|-311.04/-40.08|-312.45/-35.44</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="Barracão 6.000 m²" id="Poly02" target="_blank" url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/">
+        <polystring>-16.3/-8.87|-16.96/-9.62|-17.61/-10.24|-18.3/-10.2|-18.9/-10.81|-20.65/-10.76|-22.03/-12.52|-36.23/-11.86|-35.88/-10.6|-32.1/-9.06|-32.42/-9|-31.79/-8.67|-31/-8.57|-30.45/-8.33|-29.5/-8.19|-28.01/-8.73|-26.65/-8.22|-24.97/-8.1|-23.19/-8.87|-21.5/-8.58|-19.57/-8.89|-18.06/-8.32</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="Escrit. Salas Comerciais" id="Poly03" target="_blank" url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/">
+        <polystring>-325.71/-12.36|-327.8/-13.11|-341.52/-9.6|-338.6/-9.04</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-8.130" rotz="1.000" pan="-333.040" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.630">
+        <source url="media/PLACA ESCRIT�RIOS E SALAS COMERCIAIS.jpg"/>
+      </image>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-30.540" rotz="-5.000" pan="-55.050" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element02" stretch="1.000" height="100" clickmode="1" fov="3.104">
+        <source url="media/PLACA 15.000 m�.jpg"/>
+      </image>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-6.680" rotz="0.000" pan="-25.590" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element03" stretch="1.000" height="100" clickmode="1" fov="2.443">
+        <source url="media/PLACA 6.000 m�.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node38">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1024" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1024">
+      <level width="1024" predecode="0" preload="0" height="1024"/>
+      <level width="512" predecode="0" preload="0" height="512"/>
+      <level width="256" predecode="1" preload="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="150.021" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="VISTA FACE OESTE" longitude="-50.37084870" customnodeid="" info="" comment="" nodeid="node38" datetime="04/02/2026 16:36" tags="Pano2VR7" author="" copyright="" latitude="-27.80896429" altitude="70.00" source="" heading="150.021"/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="VISTA FACE SUDESTE" skinid="ht_node" pan="323.056" distance="234.933" id="Point01" target="$fwd" url="{node39}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE NORTE" skinid="ht_node" pan="84.6256" distance="248.368" id="Point02" target="$fwd" url="{node37}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE LESTE" skinid="ht_node" pan="17.6709" distance="403.347" id="Point03" target="$fwd" url="{node35}"/>
+      <hotspot tilt="0" description="" title="VISTA CENTRAL" skinid="ht_node" pan="24.6909" distance="278.726" id="Point04" target="$fwd" url="{node36}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE SUL" skinid="ht_node" pan="-8.35221" distance="257.67" id="Point05" target="$fwd" url="{node40}"/>
+      <polyhotspot description="" title="Barracão 6.000 m²" id="Poly01" target="_blank" url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/">
+        <polystring>-50.23/-36.86|-53.76/-23.47|-55.36/-23.58|-55.38/-20.12|-53.89/-19.82|-50.87/-18.7|-46.77/-19.71|-42.25/-17.44|-36.97/-17.91|-33.84/-16.67|-29.5/-17.01|-26.98/-15.69|-24.74/-15.68|-20.33/-17.54|-20.18/-18.79|-16.95/-20.08|-16.33/-21.06|-17.92/-22.2|-10.08/-26.14</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="Barracão 15.000 m²" id="Poly02" target="_blank" url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/">
+        <polystring>-322.47/-29|-324.44/-18.95|-331.31/-19.08|-331.32/-18.57|-337.2/-18.46|-336.1/-12.7|-289.55/-10.36|-287.24/-10.75|-286.22/-11.62|-282.68/-11.61|-279.77/-13.26|-275.33/-13.1|-271.97/-15.13|-272.01/-18.18</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="Escrit. Salas Comerciais" id="Poly03" target="_blank" url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/">
+        <polystring>-325.7/-9.55|-325.69/-10.67|-345.39/-10.32|-345.1/-9.29</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-7.590" rotz="0.000" pan="-335.130" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.630">
+        <source url="media/PLACA ESCRIT�RIOS E SALAS COMERCIAIS.jpg"/>
+      </image>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-26.000" rotz="0.000" pan="-288.030" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element02" stretch="1.000" height="100" clickmode="1" fov="3.104">
+        <source url="media/PLACA 15.000 m�.jpg"/>
+      </image>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-15.230" rotz="0.000" pan="-33.570" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element03" stretch="1.000" height="100" clickmode="1" fov="2.443">
+        <source url="media/PLACA 6.000 m�.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node39">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1024" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1024">
+      <level width="1024" predecode="0" preload="0" height="1024"/>
+      <level width="512" predecode="0" preload="0" height="512"/>
+      <level width="256" predecode="1" preload="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="54.4659" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="VISTA FACE SUDESTE" longitude="-50.37113838" customnodeid="" info="" comment="" nodeid="node39" datetime="" tags="Pano2VR7" author="" copyright="" latitude="-27.81106150" altitude="70.00" source="" heading="54.4659"/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="VISTA FACE SUL" skinid="ht_node" pan="-38.4702" distance="123.619" id="Point01" target="$fwd" url="{node40}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE OESTE" skinid="ht_node" pan="47.5004" distance="234.933" id="Point02" target="$fwd" url="{node38}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE NORTE" skinid="ht_node" pan="17.3947" distance="421.874" id="Point03" target="$fwd" url="{node37}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE LESTE" skinid="ht_node" pan="-42.261" distance="328.845" id="Point04" target="$fwd" url="{node35}"/>
+      <hotspot tilt="0" description="" title="VISTA CENTRAL" skinid="ht_node" pan="-19.8157" distance="265.826" id="Point05" target="$fwd" url="{node36}"/>
+      <polyhotspot description="" title="Barracão 6.000 m²" id="Poly01" target="_blank" url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/">
+        <polystring>-314.86/-21.19|-311.67/-31.23|-309.47/-31.49|-307.1/-36.67|-307.28/-39.78|-4.92/-30.7|-4.69/-29.14|-7.19/-28.13|-6.91/-26.21|-358.72/-22.78|-356.25/-22.62|-354.82/-22.88|-351.92/-21.34|-348.03/-22.66|-343.59/-19.22|-339.49/-18.67|-334.46/-20.17|-329.14/-19.51|-323.17/-21.02|-319.14/-20.05</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="Escrit. Salas Comerciais" id="Poly02" target="_blank" url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/">
+        <polystring>-7.98/-8.77|-7.97/-8.05|-9.16/-7.7|-19.66/-8.87|-19.8/-9.25|-23.1/-9.6|-22.26/-10.56</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="Barracão 15.000 m²" id="Poly03" target="_blank" url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/">
+        <polystring>-0.17/-9.75|-351.47/-11.08|-349.4/-11.32|-337.61/-12.49|-331.19/-8.39|-331.24/-7.05|-333.19/-6.25|-336/-6.69|-337.83/-6.01|-340.05/-6.45|-341.67/-5.9|-344.94/-6.2</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-6.450" rotz="-3.000" pan="-17.710" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.630">
+        <source url="media/PLACA ESCRIT�RIOS E SALAS COMERCIAIS.jpg"/>
+      </image>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-4.330" rotz="0.000" pan="-339.680" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element02" stretch="1.000" height="100" clickmode="1" fov="3.104">
+        <source url="media/PLACA 15.000 m�.jpg"/>
+      </image>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-37.900" rotz="0.000" pan="-350.280" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element03" stretch="1.000" height="100" clickmode="1" fov="2.443">
+        <source url="media/PLACA 6.000 m�.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node40">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1024" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1024">
+      <level width="1024" predecode="0" preload="0" height="1024"/>
+      <level width="512" predecode="0" preload="0" height="512"/>
+      <level width="256" predecode="1" preload="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="55.6415" fovmode="2">
+      <start tilt="0" projection="4" pan="0" fov="100"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="VISTA FACE SUL" longitude="-50.36988311" customnodeid="" info="" comment="" nodeid="node40" datetime="04/02/2026 16:42" tags="Pano2VR7" author="" copyright="" latitude="-27.81111844" altitude="70.00" source="" heading="55.6415"/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="VISTA FACE LESTE" skinid="ht_node" pan="-43.3624" distance="205.659" id="Point01" target="$fwd" url="{node35}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE SUDESTE" skinid="ht_node" pan="142.706" distance="123.619" id="Point02" target="$fwd" url="{node39}"/>
+      <hotspot tilt="0" description="" title="VISTA CENTRAL" skinid="ht_node" pan="-3.74856" distance="153.868" id="Point03" target="$fwd" url="{node36}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE OESTE" skinid="ht_node" pan="77.2687" distance="257.67" id="Point04" target="$fwd" url="{node38}"/>
+      <hotspot tilt="0" description="" title="VISTA FACE NORTE" skinid="ht_node" pan="34.7574" distance="367.056" id="Point05" target="$fwd" url="{node37}"/>
+      <polyhotspot description="" title="Barracão 6.000 m²" id="Poly01" target="_blank" url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/">
+        <polystring>-221.8/-47.06|-248.3/-45.14|-247.66/-41.63|-260.42/-38.55|-260.15/-36.64|-273.4/-31.42|-267.03/-26.44|-262.16/-25.21|-259.09/-22.18|-256.81/-20.92|-255.02/-21.11|-253.21/-18.31|-224.37/-20.35|-221.2/-44.98</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="Barracão 15.000 m²" id="Poly02" target="_blank" url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/">
+        <polystring>-304.85/-8.66|-296.94/-14.98|-296.83/-18.15|-316.4/-19.09|-316.48/-20.47|-333.67/-19.4|-329.8/-16.08|-330.82/-16.23|-330.86/-14.65|-324.4/-8.79|-320.05/-7.96|-313.57/-7.93|-307.64/-7.76</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="Escrit. Salas Comerciais" id="Poly03" target="_blank" url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/">
+        <polystring>-355.76/-14.66|-355.65/-13.68|-358.09/-12.92|-15.87/-16.25|-15.96/-17.12|-23.59/-18.14|-22.37/-20.5</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-13.600" rotz="11.000" pan="-11.970" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.630">
+        <source url="media/PLACA ESCRIT�RIOS E SALAS COMERCIAIS.jpg"/>
+      </image>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-5.950" rotz="0.000" pan="-315.170" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element02" stretch="1.000" height="100" clickmode="1" fov="3.104">
+        <source url="media/PLACA 15.000 m�.jpg"/>
+      </image>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-17.680" rotz="0.000" pan="-245.320" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element03" stretch="1.000" height="100" clickmode="1" fov="2.443">
+        <source url="media/PLACA 6.000 m�.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" width="1632" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1632">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="562.292" fovmode="2">
+      <start tilt="-0.0819909" projection="4" pan="-169.676" fov="87.68"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
+    </view>
+    <userdata description="" title="VISTA ENTRADA ELITE" longitude="-50.36820404" customnodeid="" info="" comment="" nodeid="node3" datetime="05/02/2026 10:08" tags="Pano2VR7" author="" copyright="" latitude="-27.81091678" heading="562.292" source=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="0" description="" title="PATIO LESTE (BALANÇA)" skinid="ht_node" pan="540.275" distance="45.3848" id="Point02" target="$fwd" url="{node4}"/>
+      <hotspot tilt="0" description="" title="CALÇADA" skinid="ht_node" pan="392.491" distance="43.99" id="Point01" target="$fwd" url="{node1}"/>
+      <hotspot tilt="0" description="" title="PATIO ENTRADA" skinid="ht_node" pan="726.061" distance="40.1123" id="Point03" target="$fwd" url="{node2}"/>
+    </hotspots>
+    <media>
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="0.460" rotz="0.000" pan="-200.090" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+        <source url="media/placa online das informa��es.jpg"/>
+      </image>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+      <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
+      <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
+      <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
+      <menulink text="Localização" url="https://maps.app.goo.gl/xehbJ7baufEXXasW9"/>
+    </control>
+  </panorama>
+  <masternode>
+    <userdata comment="" description="BARRACÕES INDUSTRIAIS E LOGISTICOS " tags="" title="IPA PARTICIPAÇÕES LAGES SC" author="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01">
+        <sequenceelement startview="52.9122/-78.6605/89.3429/4" index="0" nodeid="node35" cliptitle="Clip01"/>
+      </sequence>
+    </animationsequences>
+  </masternode>
+</tour>
