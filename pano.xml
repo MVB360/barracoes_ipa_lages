@@ -17,7 +17,7 @@
     <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
       <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
       <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot tilt="-75.97" description="" title="CALÇADA" skinid="ht_node" pan="49.9271" distance="32.2471" id="Point01" target="$fwd" url="{node1}"/>
+      <hotspot tilt="-75.97" description="" title="Iniciar Tour Térreo" skinid="ht_node" pan="49.9271" distance="32.2471" id="Point01" target="$fwd" url="{node1}"/>
       <hotspot tilt="0" description="" title="VISTA FACE SUL" skinid="ht_node" pan="66.6617" distance="205.659" id="Point02" target="$fwd" url="{node40}"/>
       <hotspot tilt="0" description="" title="VISTA CENTRAL" skinid="ht_node" pan="18.2683" distance="131.209" id="Point03" target="$fwd" url="{node36}"/>
       <hotspot tilt="0" description="" title="VISTA FACE NORTE" skinid="ht_node" pan="-3.42875" distance="382.027" id="Point04" target="$fwd" url="{node37}"/>
@@ -48,7 +48,7 @@
         <source url="media/PLACA 6.000 m�.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0">
       <clip transitiontype="0" nextcliptitle="Clip01" length="100" cliptitle="Clip01" animtype="0" animtitle="Animation01" nodeid="" nextclipstartview="52.9122/-78.6605/89.3429/4" nextclipnodeid="node35">
@@ -58,7 +58,7 @@
         <keyframe time="0" property="3" value="4" valuestring="" additionaltrackid="" type="0" transitiontime="0"/>
       </clip>
     </animation>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -73,12 +73,12 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="-65.8364" fovmode="2">
-      <start tilt="-1.71" projection="4" pan="-23.58" fov="100"/>
-      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <start tilt="-33.91" projection="4" pan="-36.35" fov="126.97"/>
+      <flyin tilt="-80" projection="9" pan="0" fov="150"/>
       <min tilt="-90" pan="0" fov="5"/>
       <max fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" pan="360" fov="140"/>
     </view>
-    <userdata description="" title="CALÇADA" longitude="-50.36812484" customnodeid="" info="" comment="" nodeid="node1" datetime="05/02/2026 10:06" tags="Pano2VR7" author="" copyright="" latitude="-27.81130614" heading="-65.8364" source=""/>
+    <userdata description="" title="Iniciar Tour Térreo" longitude="-50.36812484" customnodeid="" info="" comment="" nodeid="node1" datetime="05/02/2026 10:06" tags="Pano2VR7" author="" copyright="" latitude="-27.81130614" heading="-65.8364" source=""/>
     <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
       <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
       <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -91,10 +91,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -118,7 +118,7 @@
     <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
       <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
       <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot tilt="0" description="" title="CALÇADA" skinid="ht_node" pan="3.63665" distance="19.5937" id="Point01" target="$fwd" url="{node1}"/>
+      <hotspot tilt="0" description="" title="Iniciar Tour Térreo" skinid="ht_node" pan="3.63665" distance="19.5937" id="Point01" target="$fwd" url="{node1}"/>
       <hotspot tilt="0" description="" title="PATIO SUDESTE" skinid="ht_node" pan="191.955" distance="39.1101" id="Point02" target="$fwd" url="{node17}"/>
       <hotspot tilt="0" description="" title="GUARITA PRINCIPAL BARRACÕES" skinid="ht_node" pan="150.548" distance="16.8924" id="Point05" target="$fwd" url="{node18}"/>
       <hotspot tilt="0" description="" title="VISTA ENTRADA ELITE" skinid="ht_node" pan="91.5297" distance="40.1123" id="Point04" target="$fwd" url="{node3}"/>
@@ -128,10 +128,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -163,10 +163,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -195,14 +195,14 @@
       <hotspot tilt="0" description="" title="PATIO LESTE (BALANÇA)" skinid="ht_node" pan="-718.762" distance="63.6525" id="Point03" target="$fwd" url="{node4}"/>
     </hotspots>
     <media>
-      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-0.250" rotz="0.000" pan="-93.590" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="3.695">
+      <image popoutscaling="100" popbackmode="0" rotx="0.000" tilt="-0.290" rotz="0.000" pan="-105.080" hidepinned="0" width="100" roty="0.000" handcursor="1" id="Element01" stretch="1.000" height="100" clickmode="1" fov="2.671">
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -244,10 +244,10 @@
         <source url="media/PLACA DE INFORMA��O PARA SITE E TOU VIRTUAL DOS 15 MIL M�.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -279,10 +279,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -310,10 +310,10 @@
       <hotspot tilt="0" description="" title="PATIO CENTRAL" skinid="ht_node" pan="257.263" distance="40.6072" id="Point02" target="$fwd" url="{node10}"/>
     </hotspots>
     <media/>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -345,10 +345,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -380,10 +380,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -412,10 +412,10 @@
       <hotspot tilt="0" description="" title="RAMPA LAVAGEM PATIO SUL" skinid="ht_node" pan="182.55" distance="27.2559" id="Point03" target="$fwd" url="{node13}"/>
     </hotspots>
     <media/>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -448,10 +448,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -478,10 +478,10 @@
       <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="-14.5752" distance="27.2559" id="Point01" target="$fwd" url="{node12}"/>
     </hotspots>
     <media/>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -509,10 +509,10 @@
       <hotspot tilt="0" description="" title="PATIO SUL" skinid="ht_node" pan="169.052" distance="49.7872" id="Point02" target="$fwd" url="{node15}"/>
     </hotspots>
     <media/>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -544,10 +544,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -576,10 +576,10 @@
       <hotspot tilt="0" description="" title="GUARITA PRINCIPAL BARRACÕES" skinid="ht_node" pan="-139.57" distance="28.7041" id="Point03" target="$fwd" url="{node18}"/>
     </hotspots>
     <media/>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -607,10 +607,10 @@
       <hotspot tilt="0" description="" title="PATIO SUDESTE" skinid="ht_node" pan="107.101" distance="28.7041" id="Point02" target="$fwd" url="{node17}"/>
     </hotspots>
     <media/>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -638,10 +638,10 @@
       <hotspot tilt="0" description="" title="PATIO LESTE" skinid="ht_node" pan="-29.5054" distance="26.1291" id="Point02" target="$fwd" url="{node5}"/>
     </hotspots>
     <media/>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -669,10 +669,10 @@
       <hotspot tilt="0" description="" title="CORREDOR OESTE" skinid="ht_node" pan="6.09985" distance="70.6788" id="Point02" target="$fwd" url="{node19}"/>
     </hotspots>
     <media/>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -700,10 +700,10 @@
       <hotspot tilt="0" description="" title="CORREDOR OESTE" skinid="ht_node" pan="-14.1308" distance="60.9325" id="Point02" target="$fwd" url="{node20}"/>
     </hotspots>
     <media/>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -731,10 +731,10 @@
       <hotspot tilt="0" description="" title="VISTA NORDESTE" skinid="ht_node" pan="-3.51619" distance="45.6409" id="Point02" target="$fwd" url="{node21}"/>
     </hotspots>
     <media/>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -766,10 +766,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -801,10 +801,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -836,10 +836,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -871,10 +871,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -906,10 +906,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -941,10 +941,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -976,10 +976,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -1011,10 +1011,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -1046,10 +1046,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -1081,10 +1081,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -1116,10 +1116,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -1161,10 +1161,10 @@
         <source url="media/PLACA DO TOUR VIRTUAL 6 MIL M� E SITE GRUPO AGUIAR.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -1216,10 +1216,10 @@
         <source url="media/PLACA 6.000 m�.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -1269,10 +1269,10 @@
         <source url="media/PLACA 6.000 m�.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -1322,10 +1322,10 @@
         <source url="media/PLACA 6.000 m�.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -1375,10 +1375,10 @@
         <source url="media/PLACA 6.000 m�.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -1428,10 +1428,10 @@
         <source url="media/PLACA 6.000 m�.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
@@ -1456,7 +1456,7 @@
       <label borderalpha="1" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" width="180" wordwrap="1" backgroundalpha="1" border="1" height="20" background="1" textalpha="1"/>
       <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot tilt="0" description="" title="PATIO LESTE (BALANÇA)" skinid="ht_node" pan="540.275" distance="45.3848" id="Point02" target="$fwd" url="{node4}"/>
-      <hotspot tilt="0" description="" title="CALÇADA" skinid="ht_node" pan="392.491" distance="43.99" id="Point01" target="$fwd" url="{node1}"/>
+      <hotspot tilt="0" description="" title="Iniciar Tour Térreo" skinid="ht_node" pan="392.491" distance="43.99" id="Point01" target="$fwd" url="{node1}"/>
       <hotspot tilt="0" description="" title="PATIO ENTRADA" skinid="ht_node" pan="726.061" distance="40.1123" id="Point03" target="$fwd" url="{node2}"/>
     </hotspots>
     <media>
@@ -1464,10 +1464,10 @@
         <source url="media/placa online das informa��es.jpg"/>
       </image>
     </media>
-    <transition delay="none" zoomoutpause="1" zoomin="7" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
+    <transition delay="none" zoomoutpause="1" zoomin="6" enabled="1" softedge="0" zoomfov="40" zoomafteroutfov="40" zoomout="0" type="mesh" zoomafterinfov="140" blendcolor="0x000000" blendtime="0.5" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="0" simulatemass="1" contextprojections="0">
+    <control zoomcentercursor="1" contextvr="0" hideabout="0" invertwheel="0" sensitivity="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" speedwheel="1" rubberband="0" contextfullscreen="1" simulatemass="1" contextprojections="1">
       <menulink text="Site Ipa Participações" url="https://aguiarparticipacoes.com.br/"/>
       <menulink text="Instagram" url="https://www.instagram.com/aguiarparticipacoes/"/>
       <menulink text="Facebook" url="https://www.facebook.com/profile.php?id=61586439950594&amp;locale=pt_BR"/>
