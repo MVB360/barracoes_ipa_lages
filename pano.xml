@@ -30,7 +30,7 @@
       <polyhotspot url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/" description="" title="Barracão 6.000 m²" id="Poly01" target="_blank">
         <polystring>-304.09/-12.01|-304.05/-17.53|-311.58/-17.52|-311.54/-15.88|-320.83/-15.19|-317.45/-11.72</polystring>
       </polyhotspot>
-      <polyhotspot url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/" description="" title="Barracão 15.000 m²" id="Poly02" target="_blank">
+      <polyhotspot url="https://mvb360.github.io/tour360barracao15000/" description="" title="Barracão 15.000 m²" id="Poly02" target="_blank">
         <polystring>-348.91/-20.2|-348.88/-18.43|-342.21/-16.1|-344.86/-15.29|-340.11/-13.74|-340.18/-11.87|-341.38/-11.36|-358.26/-8.36|-3.49/-8.79|-8.44/-9.21|-11.69/-10.36|-359.43/-15.72|-359.52/-17.31|-357.82/-16.92</polystring>
       </polyhotspot>
       <polyhotspot url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/" description="" title="Escrit. Salas Comerciais" id="Poly03" target="_blank">
@@ -1198,7 +1198,7 @@
       <polyhotspot url="" description="" title="" id="Poly01" target="_blank">
         <polystring>-261.1/-10.83|-260.56/-11.64|-259.19/-11.53|-258.53/-11.76|-257.44/-13.21|-256.54/-13.28|-255.59/-13.55|-255.12/-14.06|-253.47/-13.89|-251.73/-15.42|-251.94/-16.6|-259.16/-17.42|-261.66/-15.67|-275.7/-16.5|-277.34/-13.27|-277.19/-11.69</polystring>
       </polyhotspot>
-      <polyhotspot url="" description="" title="" id="Poly02" target="_blank">
+      <polyhotspot url="https://mvb360.github.io/tour360barracao15000/" description="" title="Barracão 15.000 m²" id="Poly02" target="_blank">
         <polystring>-301.54/-23.14|-309.47/-30.05|-309.31/-33.75|-332.05/-25.37|-335.41/-26.44|-335.34/-23.31|-354.83/-11.77|-348.71/-10.13|-341.79/-9.56|-336.02/-8.98|-333.71/-8.83|-305.25/-13.73|-305.05/-16.65|-311.61/-20.51|-302.42/-22.14</polystring>
       </polyhotspot>
       <polyhotspot url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/" description="" title="Escrit. Salas Comerciais" id="Poly03" target="_blank">
@@ -1248,7 +1248,7 @@
       <hotspot distance="382.027" pan="-332.619" description="" target="$fwd" url="{node35}" tilt="0" title="VISTA FACE LESTE" skinid="ht_node" id="Point03"/>
       <hotspot distance="421.874" pan="-20.5949" description="" target="$fwd" url="{node39}" tilt="0" title="VISTA FACE SUDESTE" skinid="ht_node" id="Point04"/>
       <hotspot distance="367.056" pan="-4.40852" description="" target="$fwd" url="{node40}" tilt="0" title="VISTA FACE SUL" skinid="ht_node" id="Point05"/>
-      <polyhotspot url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/" description="" title="Barracão 15.000 m²" id="Poly01" target="_blank">
+      <polyhotspot url="https://mvb360.github.io/tour360barracao15000/" description="" title="Barracão 15.000 m²" id="Poly01" target="_blank">
         <polystring>-349.78/-15.08|-352.25/-15.3|-355.83/-12.25|-0.01/-10.95|-4.55/-12.46|-3.75/-14.58|-8.96/-13.02|-14.14/-14.41|-19.78/-12.83|-23.89/-13.74|-62.7/-36.88|-62.98/-42.74|-356.42/-56.63|-354.51/-61.56|-315.45/-49.16|-315.53/-45.3|-317.55/-43.96|-311.04/-40.08|-312.45/-35.44</polystring>
       </polyhotspot>
       <polyhotspot url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/" description="" title="Barracão 6.000 m²" id="Poly02" target="_blank">
@@ -1304,7 +1304,7 @@
       <polyhotspot url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/" description="" title="Barracão 6.000 m²" id="Poly01" target="_blank">
         <polystring>-50.23/-36.86|-53.76/-23.47|-55.36/-23.58|-55.38/-20.12|-53.89/-19.82|-50.87/-18.7|-46.77/-19.71|-42.25/-17.44|-36.97/-17.91|-33.84/-16.67|-29.5/-17.01|-26.98/-15.69|-24.74/-15.68|-20.33/-17.54|-20.18/-18.79|-16.95/-20.08|-16.33/-21.06|-17.92/-22.2|-10.08/-26.14</polystring>
       </polyhotspot>
-      <polyhotspot url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/" description="" title="Barracão 15.000 m²" id="Poly02" target="_blank">
+      <polyhotspot url="https://mvb360.github.io/tour360barracao15000/" description="" title="Barracão 15.000 m²" id="Poly02" target="_blank">
         <polystring>-322.47/-29|-324.44/-18.95|-331.31/-19.08|-331.32/-18.57|-337.2/-18.46|-336.1/-12.7|-289.55/-10.36|-287.24/-10.75|-286.22/-11.62|-282.68/-11.61|-279.77/-13.26|-275.33/-13.1|-271.97/-15.13|-272.01/-18.18</polystring>
       </polyhotspot>
       <polyhotspot url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/" description="" title="Escrit. Salas Comerciais" id="Poly03" target="_blank">
@@ -1360,7 +1360,7 @@
       <polyhotspot url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/" description="" title="Escrit. Salas Comerciais" id="Poly02" target="_blank">
         <polystring>-7.98/-8.77|-7.97/-8.05|-9.16/-7.7|-19.66/-8.87|-19.8/-9.25|-23.1/-9.6|-22.26/-10.56</polystring>
       </polyhotspot>
-      <polyhotspot url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/" description="" title="Barracão 15.000 m²" id="Poly03" target="_blank">
+      <polyhotspot url="https://mvb360.github.io/tour360barracao15000/" description="" title="Barracão 15.000 m²" id="Poly03" target="_blank">
         <polystring>-0.17/-9.75|-351.47/-11.08|-349.4/-11.32|-337.61/-12.49|-331.19/-8.39|-331.24/-7.05|-333.19/-6.25|-336/-6.69|-337.83/-6.01|-340.05/-6.45|-341.67/-5.9|-344.94/-6.2</polystring>
       </polyhotspot>
     </hotspots>
@@ -1371,7 +1371,7 @@
       <image rotx="0.000" handcursor="1" fov="3.104" pan="-339.680" popoutscaling="100" stretch="1.000" height="100" roty="0.000" clickmode="1" hidepinned="0" tilt="-4.330" width="100" id="Element02" rotz="0.000" popbackmode="0">
         <source url="media/PLACA 15.000 m�.jpg"/>
       </image>
-      <image rotx="0.000" handcursor="1" fov="2.443" pan="-350.280" popoutscaling="100" stretch="1.000" height="100" roty="0.000" clickmode="1" hidepinned="0" tilt="-37.900" width="100" id="Element03" rotz="0.000" popbackmode="0">
+      <image rotx="0.000" handcursor="1" fov="2.443" pan="-354.630" popoutscaling="100" stretch="1.000" height="100" roty="0.000" clickmode="1" hidepinned="0" tilt="-42.430" width="100" id="Element03" rotz="0.000" popbackmode="0">
         <source url="media/PLACA 6.000 m�.jpg"/>
       </image>
     </media>
@@ -1410,7 +1410,7 @@
       <polyhotspot url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/" description="" title="Barracão 6.000 m²" id="Poly01" target="_blank">
         <polystring>-221.8/-47.06|-248.3/-45.14|-247.66/-41.63|-260.42/-38.55|-260.15/-36.64|-273.4/-31.42|-267.03/-26.44|-262.16/-25.21|-259.09/-22.18|-256.81/-20.92|-255.02/-21.11|-253.21/-18.31|-224.37/-20.35|-221.2/-44.98</polystring>
       </polyhotspot>
-      <polyhotspot url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/" description="" title="Barracão 15.000 m²" id="Poly02" target="_blank">
+      <polyhotspot url="https://mvb360.github.io/tour360barracao15000/" description="" title="Barracão 15.000 m²" id="Poly02" target="_blank">
         <polystring>-304.85/-8.66|-296.94/-14.98|-296.83/-18.15|-316.4/-19.09|-316.48/-20.47|-333.67/-19.4|-329.8/-16.08|-330.82/-16.23|-330.86/-14.65|-324.4/-8.79|-320.05/-7.96|-313.57/-7.93|-307.64/-7.76</polystring>
       </polyhotspot>
       <polyhotspot url="https://aguiarparticipacoes.com.br/barracoes-comerciais-e-logisticos/" description="" title="Escrit. Salas Comerciais" id="Poly03" target="_blank">
