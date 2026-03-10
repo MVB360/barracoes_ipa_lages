@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.8/20986
 // Filename: IPA3.ggsk
-// Generated 2026-03-10T16:58:29
+// Generated 2026-03-10T18:10:06
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_skin', 2, true, { ignoreInState: 1  });
@@ -3809,11 +3809,11 @@ function pano2vrSkin(player,base) {
 		el.className="ggskin ggskin_button ";
 		el.ggType='button';
 		hs ='';
-		hs+='bottom : 100px;';
+		hs+='bottom : 69px;';
 		hs+='cursor : pointer;';
 		hs+='height : 40px;';
 		hs+='position : absolute;';
-		hs+='right : 200px;';
+		hs+='right : 136px;';
 		hs+='visibility : inherit;';
 		hs+='width : 40px;';
 		hs+='pointer-events:auto;';
@@ -3833,7 +3833,7 @@ function pano2vrSkin(player,base) {
 		me.divSkin.appendChild(me._button_1);
 		el=me._thumbnail_menu_toggle=document.createElement('div');
 		el.ggId="thumbnail_menu_toggle";
-		el.ggDx=0;
+		el.ggDx=74;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_rectangle ";
@@ -3842,13 +3842,13 @@ function pano2vrSkin(player,base) {
 		hs+='background : #4fb5c2;';
 		hs+='border : 0px solid #000000;';
 		hs+='border-radius : 25px;';
-		hs+='bottom : 20px;';
+		hs+='bottom : 17px;';
 		hs+='cursor : pointer;';
-		hs+='height : 52px;';
-		hs+='left : calc(50% - ((52px + 0px) / 2) + 0px);';
+		hs+='height : 30px;';
+		hs+='left : calc(50% - ((30px + 0px) / 2) + 74px);';
 		hs+='position : absolute;';
 		hs+='visibility : inherit;';
-		hs+='width : 52px;';
+		hs+='width : 30px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -3931,12 +3931,12 @@ function pano2vrSkin(player,base) {
 		el.className="ggskin ggskin_svg ";
 		el.ggType='svg';
 		hs ='';
-		hs+='height : 48px;';
-		hs+='left : calc(50% - ((48px + 0px) / 2) + 0px);';
+		hs+='height : 30px;';
+		hs+='left : calc(50% - ((30px + 0px) / 2) + 0px);';
 		hs+='position : absolute;';
-		hs+='top : calc(50% - ((48px + 0px) / 2) + 0px);';
+		hs+='top : calc(50% - ((30px + 0px) / 2) + 0px);';
 		hs+='visibility : inherit;';
-		hs+='width : 48px;';
+		hs+='width : 30px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -4000,12 +4000,12 @@ function pano2vrSkin(player,base) {
 		el.className="ggskin ggskin_svg ";
 		el.ggType='svg';
 		hs ='';
-		hs+='height : 48px;';
-		hs+='left : calc(50% - ((48px + 0px) / 2) + 0px);';
+		hs+='height : 30px;';
+		hs+='left : calc(50% - ((30px + 0px) / 2) + 0px);';
 		hs+='position : absolute;';
-		hs+='top : calc(50% - ((48px + 0px) / 2) + 0px);';
+		hs+='top : calc(50% - ((30px + 0px) / 2) + 0px);';
 		hs+='visibility : hidden;';
-		hs+='width : 48px;';
+		hs+='width : 30px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -4052,15 +4052,15 @@ function pano2vrSkin(player,base) {
 		me.divSkin.appendChild(me._thumbnail_menu_toggle);
 		el=me._thumbnail_menu=document.createElement('div');
 		el.ggId="thumbnail_menu";
-		el.ggDx=0;
+		el.ggDx=64;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_container ";
 		el.ggType='container';
 		hs ='';
-		hs+='bottom : 90px;';
+		hs+='bottom : 59px;';
 		hs+='height : 130px;';
-		hs+='left : calc(50% - ((60% + 0px) / 2) + 0px);';
+		hs+='left : calc(50% - ((60% + 0px) / 2) + 64px);';
 		hs+='opacity : 0;';
 		hs+='position : absolute;';
 		hs+='visibility : hidden;';
@@ -8639,18 +8639,18 @@ me._ht_image_bg.style.transform= '';
 		}
 		el=me._ht_info_text=document.createElement('div');
 		el.ggId="ht_info_text";
-		el.ggDx=0;
-		el.ggDy=0;
+		el.ggDx=64;
+		el.ggDy=31;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_container ";
 		el.ggType='container';
 		hs ='';
 		hs+='height : calc(100% - 40px);';
-		hs+='left : calc(50% - ((calc(100% - 40px) + 0px) / 2) + 0px);';
+		hs+='left : calc(50% - ((calc(100% - 40px) + 0px) / 2) + 64px);';
 		hs+='opacity : 0;';
 		hs+='position : absolute;';
-		hs+='top : calc(50% - ((calc(100% - 40px) + 0px) / 2) + 0px);';
+		hs+='top : calc(50% - ((calc(100% - 40px) + 0px) / 2) + 31px);';
 		hs+='visibility : hidden;';
 		hs+='width : calc(100% - 40px);';
 		hs+='pointer-events:none;';
@@ -9385,10 +9385,10 @@ me._ht_info_bg.style.transform='';
 					((player.getVariableValue('resp_phone') == false))
 				)
 			) {
-				let pdfInterval_51 = setInterval(() => {
+				let pdfInterval_101 = setInterval(() => {
 					if (skin._ht_pdf_popup_pdf__pdf.contentWindow.PDFViewerApplication && skin._ht_pdf_popup_pdf__pdf.contentWindow.PDFViewerApplication.initialized && skin._ht_pdf_popup_pdf__pdf.contentWindow.PDFViewerApplication.downloadComplete && skin._ht_pdf_popup_pdf__pdf.contentWindow.PDFViewerApplication.pdfViewer._pageViewsReady) {
 						skin._ht_pdf_popup_pdf.ggSetCurrentPage(Number(player._(me.hotspot.target)));
-						clearInterval(pdfInterval_51);
+						clearInterval(pdfInterval_101);
 					}
 				}, 50);
 			}
@@ -9411,10 +9411,10 @@ me._ht_info_bg.style.transform='';
 					((player.getVariableValue('resp_phone') == true))
 				)
 			) {
-				let pdfInterval_52 = setInterval(() => {
+				let pdfInterval_102 = setInterval(() => {
 					if (skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication && skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication.initialized && skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication.downloadComplete && skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication.pdfViewer._pageViewsReady) {
 						skin._pdf_popup_phone.ggSetCurrentPage(Number(player._(me.hotspot.target)));
-						clearInterval(pdfInterval_52);
+						clearInterval(pdfInterval_102);
 					}
 				}, 50);
 			}
